@@ -1,0 +1,27 @@
+body{background-color: #f8f8f8; font-family: "微软雅黑"}
+.confirm_title{width:10rem;height:2.0533rem;background-color: #fff; border-bottom: 1px solid #dedfe0; margin-top:0.5467rem;}
+.confirm_p{width: 9.4667rem;margin:0 auto;}
+.confirm_p .p1{width: 9.4667rem;color: #333;font-size: 0.4rem;}
+.confirm_p .p2{margin-top:0.15rem; width: 9.4667rem;color: #999;font-size: 0.3733rem;}
+.confirm_p .p2 i{ margin-right:0.1rem; width:  0.4133rem;height:  0.4133rem;background: url(../images/confirm/icon_confirm.png)  -0.9rem  0.1rem no-repeat;background-size:1.5rem;}
+
+.info{margin-top:0.3867rem;font-size: 0.4rem;color: #333;}
+
+/* one */ 
+.confirm_one{    border-bottom: 1px solid #dedfe0;width: 9.4667rem;height: 5.888rem;background-color: #fff; margin-top:0.2667rem;border-radius: 0.2rem;}
+.one_title {height: 1.1067rem; width: 9.4667rem;background-color: #ff7272;border-radius:0.2rem 0.2rem 0 0;}
+.one_title p{margin-left: 0.2667rem;color: #fff;font-size: 0.4rem;line-height: 1.1067rem;}
+.one_count p{width:8.4667rem;  margin: 0.2rem 0.2667rem 0rem 0.2667rem; color: #333;font-size: 0.4rem;}
+.one_count p span{color: #999;}
+
+
+
+/* three */ 
+.three{width: 10rem;height: 1.8267rem;background-color: #fff;margin-top:0.4rem;border-bottom: 1px solid #dedfe0;}
+.ma p{height: 0.3667rem; width: 8.4444rem;line-height: 1rem;margin-top:0.4rem;}
+/* bot */
+.bot{width: 10rem;height: 1.16rem;background-color: #fff;margin-top:0.4rem; border-top:1px solid #dedfe0;}
+.bot input{font-family: '微软雅黑'; background-color:#ff7272;width: 2rem;height: 1.16rem;border: none; color: #fff;font-size: 0.4rem;font-weight: bold;}
+.bot p{line-height: 1.16rem;margin-right: 0.4rem;color: #fd0000;font-size: 0.4rem;font-weight: bold;}
+.bot p span{font-size: 0.1rem;font-weight: normal;}
+
